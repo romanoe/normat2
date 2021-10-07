@@ -5,6 +5,7 @@ A disposition:
 
 * Modèle de données sous format SQL
 * Projet QGIS
+* Wiki pour l'utilisation (en cours): https://github.com/romanoe/normat2/wiki/NORMAT-2-%7C--Documentation
 
 ## Lien utiles
 * `ili2db`: https://github.com/claeis/ili2db
