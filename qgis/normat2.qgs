@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis saveDateTime="2021-10-07T18:16:43" projectname="NORMAT 2 | PROD | 20211007.01" version="3.16.10-Hannover" saveUser="SGCA0250" saveUserFull="Romano Noemi">
+<qgis saveDateTime="2021-10-07T18:16:43" projectname="NORMAT 2 | PROD | 20211007.01" version="3.16.10-Hannover" saveUser="user" saveUserFull="user_full">
   <homePath path=""/>
   <title>NORMAT 2 | PROD | 20211007.01</title>
   <autotransaction active="0"/>
@@ -13772,7 +13772,7 @@ def my_form_open(dialog, layer, feature):
     </contact>
     <links/>
     <history>20211007.01 - Réorganisation couches</history>
-    <author>Romano Noemi</author>
+    <author>User</author>
     <creation>2021-01-05T11:36:45</creation>
   </projectMetadata>
   <Annotations/>
